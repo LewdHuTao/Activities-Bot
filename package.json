@@ -1,0 +1,30 @@
+{
+  "name": "activities-bot",
+  "version": "1.0.0",
+  "description": "Use activities feature using your own bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node src/deploy/global"
+  },
+  "author": "LewdHuTao",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0-dev.1646395406.6f7a366",
+    "@discordjs/rest": "^0.4.0-dev.1646395403.6f7a366",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.27.3",
+    "discord.js": "^14.0.0-dev.1646395406.6f7a366",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewdHuTao/Activities-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LewdHuTao/Activities-Bot/issues"
+  },
+  "homepage": "https://github.com/LewdHuTao/Activities-Bot#readme"
+}
