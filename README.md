@@ -1,4 +1,4 @@
-<h1 align="center"><width="30px"> Activites Bot <width="30px"></h1>
+<h1 align="center"><width="30px"> Activities Bot <width="30px"></h1>
 
 A similar bot like [Activities](https://github.com/advaith1/activities). Can play a lot of activites without require to boosting server.
 
