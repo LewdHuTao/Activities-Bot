@@ -3,7 +3,6 @@ const {
   CommandInteraction,
   CommandInteractionOptionResolver,
 } = require("discord.js");
-const ActivitiesBot = require("../index");
 
 class SlashCommand extends SlashCommandBuilder {
   constructor() {

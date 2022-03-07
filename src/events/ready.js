@@ -5,7 +5,7 @@ module.exports = {
   name: "ready",
   run: async (client) => {
     console.log(
-        color.green(`[CLIENT] ${client.user.username} is now Online!`)
+      color.green(`[CLIENT] ${client.user.username} is now Online!`)
     );
     console.log(
       color.green(`[CLIENT] Loaded [${client._eventsCount}] events.`)
