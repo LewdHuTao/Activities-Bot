@@ -23,3 +23,13 @@ Deploy Slash Commands
 ```
 node src/deploy/global
 ```
+
+  ## Preview
+
+Watch Together
+
+  <img src="https://cdn.discordapp.com/attachments/897715616155328542/950239222613299291/Screenshot_2022-03-07_111318.png">
+  
+  Letter League
+
+<img src="https://cdn.discordapp.com/attachments/897715616155328542/950239222894297098/Screenshot_2022-03-07_115009.png">
